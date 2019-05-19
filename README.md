@@ -1,3 +1,3 @@
 # Нетология python
 
- [a relative link](Types.py)
+ [Lesson 1](Types.py)

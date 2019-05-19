@@ -1,3 +1,3 @@
 # Нетология python
 
- [Lesson 1](Lesson 1.py)
+ [Lesson 1](Lesson_1.py)

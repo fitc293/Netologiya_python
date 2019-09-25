@@ -7,5 +7,5 @@
  [Lesson 5](lesson_5.ipynb) Python для анализа данных: numpy и scipy   
  [Lesson 6](lesson_6.ipynb) Python для анализа данных: pandas   
  [Lesson 8](lesson_8.ipynb) Визуализация данных в Python   
- [Lesson 9](lesson_9.ipynb) Статистика. Основы описательной статистики, виды распределений в Python
+ [Lesson 9](lesson_9.ipynb) Статистика. Основы описательной статистики, виды распределений в Python  
  [Lesson 10](lesson_10.ipynb) Центральная предельная теорема и статистический анализ данных в Python
